@@ -12,4 +12,4 @@ export interface MarketWorkerMessage {
   type: 'market-update'
   ticks: MarketTick[]
   chartTicks: MarketTick[]
-}
+} 
